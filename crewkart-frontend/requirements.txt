@@ -1,0 +1,29 @@
+# Core Framework & React
+next@14.2.15
+react@^18.3.1
+react@^18.3.1
+react-dom@^18.3.1
+
+# Styling & UI Libraries
+tailwindcss@^3.4.1
+tailwind-merge@^2.2.1
+clsx@^2.1.1
+lucide-react@^0.460.0
+react-icons@^5.3.6
+framer-motion@^11.15.0
+
+# State Management & Backend Integration
+zustand@^5.0.0-rc.2
+axios@^1.7.9
+next-auth@^4.24.11
+sonner@^1.7.4
+
+# Utilities
+@types/node@^20.17.6
+@types/react@^18.3.12
+@types/react-dom@^18.3.5
+eslint@^9.13.0
+eslint-config-next@^14.2.15
+postcss@^8.4.49
+typescript@^5.6.3
+autoprefixer@^10.4.20
